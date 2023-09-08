@@ -1,0 +1,66 @@
+.form-control,
+.btn {
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+.form-control {
+    position: relative;
+    padding-right: 0;
+}
+
+.select-container {
+    max-height: 200px;
+    overflow-y: auto;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+}
+
+.multiselect {
+    width: 200px;
+}
+
+.selectBox {
+    position: relative;
+}
+
+.selectBox select {
+    height: 30px;
+    border-radius: 5px;
+    width: 100%;
+    font-weight: normal;
+}
+
+.overSelect {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+#checkboxes_sbu,
+#checkboxes_merchantGroup {
+    display: none;
+    border-radius: 3px;
+    border: 2px solid #ccc;
+    height: 100px;
+    overflow-y: scroll;
+}
+
+#checkboxes label {
+    display: block;
+    padding: 5px 5px;
+}
+
+.container-checkbox {
+    height: 185px;
+}
+
+remove arrow input type number input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

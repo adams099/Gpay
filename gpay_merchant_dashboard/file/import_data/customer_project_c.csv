@@ -1,0 +1,239 @@
+﻿id;first_name;sure_name;mailing_zipcode;mailing_address;mother_maiden_name;place_of_birth;birth_date;idcard_zipcode;idcard_address;mobile_phone_no;email;idcard_number;gender_name;dt_create;visualid;balance;type;card_type;cardstatus_vname
+631;Gpay;I;NULL;NULL;NULL;NULL;01/01/1988;NULL;NULL;6282126021403;gpaysahid@gmail.com;NULL;NULL;11/01/2019;380000000328;32588;Normal;Gpay virtual card;active_card
+632;Gpay;II;NULL;NULL;NULL;NULL;01/01/1988;NULL;NULL;6282126021404;gpaysahid2@gmail.com;NULL;NULL;11/01/2019;380000000329;50000;Normal;Gpay virtual card;active_card
+635;Rahmat;Barkah;NULL;NULL;NULL;NULL;05/08/1969;NULL;NULL;62818961558;rahmat.barka@gmail.com;NULL;NULL;14/01/2019;380000000330;0;Normal;Gpay virtual card;destroyed_card
+636;Decem;Cahyadi;16425;Griya Insani Kukusan;Suyami;Jakarta;27/04/1978;12560;CIlandak;62818850528;decem.emc009@gmail.com;3174042704780004;male;14/01/2019;380000000331;6850;Normal;Gpay virtual card;active_card
+637;remmi;razi;12620;Jl. Cendrawasih III No. 20;siti badriah;jakarta;19/09/1978;12420;Jl. Cendrawasih III No. 20;6281290055597;remmi_ibrahim@yahoo.com;3174091909780002;male;14/01/2019;380000000332;313;Normal;Gpay virtual card;active_card
+639;Nesken;Sitanggang;NULL;NULL;NULL;NULL;11/05/1988;NULL;NULL;6282320986147;nesken.sitanggang@gmail.com;NULL;NULL;16/01/2019;380000000333;10890;Normal;Gpay virtual card;active_card
+640;Gede;Widhi;NULL;NULL;NULL;NULL;23/06/1990;NULL;NULL;6281294030502;putra.gwp@gmail.com;NULL;NULL;17/01/2019;380000000334;0;Normal;Gpay virtual card;card_requested
+641;Gede;Widhi;NULL;NULL;NULL;NULL;23/06/1990;NULL;NULL;6281294038502;putra.gwp@gmail.com;NULL;NULL;17/01/2019;380000000335;64829;Normal;Gpay virtual card;active_card
+642;Lani;Sami;NULL;NULL;NULL;NULL;01/01/1988;NULL;NULL;6282154854618;ajalani@gmail.com;NULL;NULL;17/01/2019;380000000336;0;Normal;Gpay virtual card;card_requested
+643;Rifo;Islamoriza;NULL;NULL;NULL;NULL;26/04/1985;NULL;NULL;628119892298;r.islamoriza@gmail.com;NULL;NULL;17/01/2019;380000000337;16400;Normal;Gpay virtual card;active_card
+644;Muhamad;Adiyat;NULL;NULL;NULL;NULL;08/04/1990;NULL;NULL;6281310817949;m_adiyat@hotmail.comen;NULL;NULL;17/01/2019;380000000338;3260;Normal;Gpay virtual card;active_card
+645;Victor;Liliwidjaja;NULL;NULL;NULL;NULL;04/10/1975;NULL;NULL;628176850060;victor.liliwidjaja@gpay.id;NULL;NULL;17/01/2019;380000000339;1100;Normal;Gpay virtual card;active_card
+646;Fikri;Piki;12628;Gandaria Townhouse No 23i RT 013 RRW002 ;Ruadiana;Plaju;29/05/1979;12620;Gandaria Townhouse No 23i RT 013 RW002 ;6282128583332;fiekrie@gmail.com;3273162905790007;male;17/01/2019;380100000160;129000;Normal;Gpay master virtual card;active_card
+647;Dedi;Rochmana;NULL;NULL;NULL;NULL;02/09/1970;NULL;NULL;6282112539322;dedi.rochmana@gpay.id;NULL;NULL;17/01/2019;380000000341;3306;Normal;Gpay virtual card;active_card
+648;Rininta;Melati;NULL;NULL;NULL;NULL;06/01/1983;NULL;NULL;6285894996886;melati_riefkyy@yahoo.com;NULL;NULL;17/01/2019;380000000342;269;Normal;Gpay virtual card;active_card
+649;Rudy;Hamdani;NULL;NULL;NULL;NULL;24/08/1971;NULL;NULL;628118901098;rhamdani2002@yahoo.com;NULL;NULL;17/01/2019;380000000343;132900;Normal;Gpay virtual card;active_card
+651;Laraswati;Suyono;NULL;NULL;NULL;NULL;27/03/1992;NULL;NULL;6285715100252;laraswatisuyono@yahoo.com;NULL;NULL;21/01/2019;380000000345;800;Normal;Gpay virtual card;active_card
+652;Rudy;iPhone;NULL;NULL;NULL;NULL;24/01/1971;NULL;NULL;6208161897124;nuansaboy@gmail.com;NULL;NULL;23/01/2019;380000000346;0;Normal;Gpay virtual card;card_requested
+653;Dian;Nurvianty;NULL;NULL;NULL;NULL;19/04/1971;NULL;NULL;628129401209;dian.nurvianty@gmail.com;NULL;NULL;23/01/2019;380000000347;1400;Normal;Gpay virtual card;active_card
+654;Wieke;Yuniarti;NULL;NULL;NULL;NULL;23/01/1973;NULL;NULL;6282311858585;keke_2906@yahoo.co.id;NULL;NULL;23/01/2019;380000000348;11271;Normal;Gpay virtual card;active_card
+655;Rudy;Apple;NULL;NULL;NULL;NULL;24/08/1971;NULL;NULL;628161897124;nuansaboy@gmail.com;NULL;NULL;24/01/2019;380000000349;149600;Normal;Gpay virtual card;active_card
+657;Tona;Mahfirohman;NULL;NULL;NULL;NULL;24/08/1979;NULL;NULL;6287780063754;mahfirohman@gmail.com;NULL;NULL;29/01/2019;380000000350;120200;Normal;Gpay virtual card;active_card
+660;Megi;Cynthia;NULL;NULL;NULL;NULL;27/05/1982;NULL;NULL;6281281420112;megicynthia27@gmail.com;NULL;NULL;04/02/2019;380000000351;2400;Normal;Gpay virtual card;active_card
+661;Eka;Perdana;NULL;NULL;NULL;NULL;29/01/1988;NULL;NULL;6287784184302;eka.saputra@gpay.id;NULL;NULL;07/02/2019;380000000352;1800;Normal;Gpay virtual card;active_card
+662;Gtesting;Nelsi;NULL;NULL;NULL;NULL;23/07/2000;NULL;NULL;6281317667586;testplanet05@gmail.com;NULL;NULL;19/02/2019;380000000353;0;Normal;Gpay virtual card;active_card
+666;Rahmat;Barkah;NULL;NULL;NULL;NULL;05/08/1969;NULL;NULL;62818961558;rahmat.barka@gmail.com;NULL;NULL;26/02/2019;380000000354;14370;Normal;Gpay virtual card;active_card
+669;Rian;Nugraha;15152;Puri Kartika B5 No 10 RT03 RW 08 Tajur Ciledug Tangerang;Fajariah;Tangerang;02/11/1991;15152;Puri Kartika B5 No 10 RT03 RW 08 Tajur Ciledug Tangerang;6285716660211;rian.axic@gmail.com;3671060211910005;male;01/03/2019;380100000159;17600;Normal;Gpay master virtual card;active_card
+670;Adityo;Bayu;12345678;kepoooo;kepoooo;jonggol;09/06/1990;1243456;kepoooo;6287878771771;adityo.bn@gmail.com;12434645484045;male;01/03/2019;380000000356;18500;Normal;Gpay virtual card;active_card
+671;Mahendra;Dhiraj;NULL;NULL;NULL;NULL;15/07/1986;NULL;NULL;6281513227500;mdhiraj@gmail.com;NULL;NULL;01/03/2019;380000000357;58517;Normal;Gpay virtual card;active_card
+672;Rudi;Satria;NULL;NULL;NULL;NULL;09/12/1985;NULL;NULL;628989898984;rudihadisatria@gmail.com;NULL;NULL;01/03/2019;380000000358;11200;Normal;Gpay virtual card;active_card
+673;Yance;Wijaya;NULL;NULL;NULL;NULL;27/04/1989;NULL;NULL;6281295341669;yancewijaya@yahoo.com;NULL;NULL;01/03/2019;380000000359;0;Normal;Gpay virtual card;card_requested
+674;Yance;Wijaya;NULL;NULL;NULL;NULL;27/04/1989;NULL;NULL;6281295341666;yancewijaya@yahoo.com;NULL;NULL;01/03/2019;380000000360;1050;Normal;Gpay virtual card;active_card
+675;Albert;Leonardo;NULL;NULL;NULL;NULL;12/08/1997;NULL;NULL;6283807022678;albert.kunimi97@gmail.com;NULL;NULL;01/03/2019;380000000361;5900;Normal;Gpay virtual card;active_card
+676;Yohan;Lie;NULL;NULL;NULL;NULL;07/07/1987;NULL;NULL;6287881056663;yohan.lie@gmail.com;NULL;NULL;01/03/2019;380000000362;1600;Normal;Gpay virtual card;active_card
+677;Joshua;Jeremy;NULL;NULL;NULL;NULL;01/07/1997;NULL;NULL;6282298267079;joshua.jeremy1@yahoo.com;NULL;NULL;01/03/2019;380000000363;28500;Normal;Gpay virtual card;active_card
+678;Yetti;AH;NULL;NULL;NULL;NULL;10/08/1976;NULL;NULL;6281296032563;yettiah@gmail.com;NULL;NULL;01/03/2019;380000000364;64235;Normal;Gpay virtual card;active_card
+679;Marcella;Dewi;NULL;NULL;NULL;NULL;12/12/1967;NULL;NULL;6282298881212;marcella.dewi@yahoo.com;NULL;NULL;01/03/2019;380000000365;150000;Normal;Gpay virtual card;active_card
+680;Caroline;Yeoh;NULL;NULL;NULL;NULL;27/07/1986;NULL;NULL;628988883280;yang_caroline@hotmail.com;NULL;NULL;03/03/2019;380000000366;4300;Normal;Gpay virtual card;active_card
+681;Santy;Tan;NULL;NULL;NULL;NULL;15/04/1983;NULL;NULL;6289618649820;santy_tan@yahoo.com;NULL;NULL;03/03/2019;380000000367;63200;Normal;Gpay virtual card;active_card
+682;Imam;Maulana;NULL;NULL;NULL;NULL;10/10/1994;NULL;NULL;6281223217984;imam.maulana@gtech.digital;NULL;NULL;04/03/2019;380000000368;3892;Normal;Gpay virtual card;active_card
+683;Claudy;Pangkey;NULL;NULL;NULL;NULL;31/07/1994;NULL;NULL;6282299542942;claudy.daniel@gmail.com;NULL;NULL;04/03/2019;380000000369;86500;Normal;Gpay virtual card;active_card
+684;Rohmat;ullah;NULL;NULL;NULL;NULL;06/10/1991;NULL;NULL;6281291639746;rohmatulah66@gmail.com;NULL;NULL;04/03/2019;380000000370;4250;Normal;Gpay virtual card;active_card
+685;Renaldo;Tulung;NULL;NULL;NULL;NULL;06/01/1988;NULL;NULL;628972370936;ublequtex@yahoo.com;NULL;NULL;04/03/2019;380000000371;0;Normal;Gpay virtual card;active_card
+686;Stella;Phua;NULL;NULL;NULL;NULL;23/11/1993;NULL;NULL;6285668891981;stefaniephuas@gmail.com;NULL;NULL;04/03/2019;380000000372;10862;Normal;Gpay virtual card;active_card
+687;Lany;Harlianto;NULL;NULL;NULL;NULL;29/06/1990;NULL;NULL;6281513672568;harliantolany@gmail.com;NULL;NULL;04/03/2019;380000000373;0;Normal;Gpay virtual card;active_card
+688;Robert;Robert;NULL;NULL;NULL;NULL;04/03/1982;NULL;NULL;6287876996210;robert_renaissance888@yahoo.com;NULL;NULL;04/03/2019;380000000374;26492;Normal;Gpay virtual card;active_card
+689;Cahyana;Putra;NULL;NULL;NULL;NULL;17/03/1980;NULL;NULL;6287836402004;cahyana_pupur@yahoo.com;NULL;NULL;04/03/2019;380000000375;14850;Normal;Gpay virtual card;active_card
+690;Sandi;Billy;NULL;NULL;NULL;NULL;24/10/1993;NULL;NULL;6281315356669;sandi.billy@gtech.digital;NULL;NULL;05/03/2019;380000000376;1575;Normal;Gpay virtual card;active_card
+691;Heng;Junandi;NULL;NULL;NULL;NULL;10/06/1985;NULL;NULL;6281282075254;junandi_lin@yahoo.com;NULL;NULL;05/03/2019;380000000377;47700;Normal;Gpay virtual card;active_card
+692;Mundi;Mundi;NULL;NULL;NULL;NULL;23/04/1972;NULL;NULL;628164854161;mundi.murbawani@gmail.com;NULL;NULL;05/03/2019;380000000378;58900;Normal;Gpay virtual card;active_card
+693;Susan;Logawa;NULL;NULL;NULL;NULL;05/03/1990;NULL;NULL;62811137277;susan.logawa@gmail.com;NULL;NULL;05/03/2019;380000000379;6300;Normal;Gpay virtual card;active_card
+694;Julyani;Barus;NULL;NULL;NULL;NULL;28/07/1986;NULL;NULL;628163200766;julyanibarus@gmail.com;NULL;NULL;05/03/2019;380000000380;68800;Normal;Gpay virtual card;active_card
+695;Adhitya;Leonardi;NULL;NULL;NULL;NULL;12/04/1988;NULL;NULL;6281932161625;adhitya.leonardi@mapemall.com;NULL;NULL;05/03/2019;380000000381;0;Normal;Gpay virtual card;active_card
+696;Tjan;Gito;NULL;NULL;NULL;NULL;17/10/1980;NULL;NULL;6281210180008;tgito@gtech.digital;NULL;NULL;05/03/2019;380000000382;7652;Normal;Gpay virtual card;active_card
+697;Iman;Lazuardi;NULL;NULL;NULL;NULL;10/05/1990;NULL;NULL;6281381352152;lazuardi128@gmail.com;NULL;NULL;05/03/2019;380000000383;12880;Normal;Gpay virtual card;active_card
+698;Reginald;PG;NULL;NULL;NULL;NULL;13/01/1995;NULL;NULL;628121836990;reginaldpg@gmail.com;NULL;NULL;05/03/2019;380000000384;36900;Normal;Gpay virtual card;active_card
+699;furyanto;jawoto;NULL;NULL;NULL;NULL;20/07/1976;NULL;NULL;6281322216496;furyanto@gtech.digital;NULL;NULL;05/03/2019;380000000385;114533;Normal;Gpay virtual card;active_card
+700;Ficky;Felary;12150;saraswati ujung no 27s;yanti daraghartika;bandung;24/03/1983;40287;jakapurwa A no 8;628112333000;fickymartha@yahoo.com;3273212403830001;male;05/03/2019;380100000162;6470;Normal;Gpay master virtual card;active_card
+701;Aldilla;Rizka;NULL;NULL;NULL;NULL;09/12/1994;NULL;NULL;6281932304346;aldillarizka125@gmail.com;NULL;NULL;05/03/2019;380000000387;100;Normal;Gpay virtual card;active_card
+702;Sudito;Li;NULL;NULL;NULL;NULL;25/10/1973;NULL;NULL;628161122851;lichanhau@gmail.com;NULL;NULL;05/03/2019;380000000388;67400;Normal;Gpay virtual card;active_card
+703;Desy;Natalia;NULL;NULL;NULL;NULL;24/12/1993;NULL;NULL;6281283985242;deasynatale@gmail.com;NULL;NULL;06/03/2019;380000000389;0;Normal;Gpay virtual card;active_card
+704;memey;nurhalimah;NULL;NULL;NULL;NULL;19/09/1991;NULL;NULL;6281286161180;nurhalimahmey@gmail.com;NULL;NULL;06/03/2019;380000000390;67245;Normal;Gpay virtual card;active_card
+705;Joulmer;Joulmer;NULL;NULL;NULL;NULL;21/02/1978;NULL;NULL;6282111128910;joulmer@hotmail.co.uk;NULL;NULL;06/03/2019;380000000391;150000;Normal;Gpay virtual card;active_card
+706;Firdaus;Malik;NULL;NULL;NULL;NULL;17/09/1983;NULL;NULL;628111981894;firdaus.gtech@gmail.com;NULL;NULL;06/03/2019;380000000392;150000;Normal;Gpay virtual card;active_card
+707;Muhamad;Chandra;NULL;NULL;NULL;NULL;07/08/1993;NULL;NULL;6287782773953;chandramunandar44@gmail.com;NULL;NULL;06/03/2019;380000000393;22925;Normal;Gpay virtual card;active_card
+708;Brian;Chang;NULL;NULL;NULL;NULL;06/04/1991;NULL;NULL;6281289001807;brianjameschang@gmail.com;NULL;NULL;06/03/2019;380000000394;69100;Normal;Gpay virtual card;active_card
+709;Tieka;Bahagya;NULL;NULL;NULL;NULL;18/07/1983;NULL;NULL;6281288332574;tika.hanissa@gmail.com;NULL;NULL;06/03/2019;380000000395;10360;Normal;Gpay virtual card;active_card
+710;Made Widhia;Laksamana Putra;NULL;NULL;NULL;NULL;06/03/1988;NULL;NULL;6282253245718;putra.gwp@gmail.com;NULL;NULL;06/03/2019;380000000396;0;Normal;Gpay virtual card;active_card
+711;Rianda;Zulhamjani;NULL;NULL;NULL;NULL;24/03/1992;NULL;NULL;6287842344055;rianda.zulhamjani@gmail.com;NULL;NULL;06/03/2019;380000000397;4700;Normal;Gpay virtual card;active_card
+712;Frida;Zhang;NULL;NULL;NULL;NULL;26/11/1976;NULL;NULL;6282112951999;fridachang2005@yahoo.com;NULL;NULL;06/03/2019;380000000398;29;Normal;Gpay virtual card;active_card
+713;Nopriadi;Bunawan;NULL;NULL;NULL;NULL;01/11/1986;NULL;NULL;628176669333;nopriadi.bunawan@gmail.com;NULL;NULL;06/03/2019;380000000399;101200;Normal;Gpay virtual card;active_card
+714;Ferry;Baba;NULL;NULL;NULL;NULL;12/02/1975;NULL;NULL;62877875854052;febaba@gmail.com;NULL;NULL;06/03/2019;380000000400;0;Normal;Gpay virtual card;card_requested
+715;Ferry;Baba;NULL;NULL;NULL;NULL;12/02/1975;NULL;NULL;6287875854052;febaba@gmail.com;NULL;NULL;06/03/2019;380000000401;150000;Normal;Gpay virtual card;active_card
+716;adlin;juistha;NULL;NULL;NULL;NULL;14/08/1994;NULL;NULL;6282299138017;juistha@gmail.com;NULL;NULL;06/03/2019;380000000402;0;Normal;Gpay virtual card;active_card
+717;Winda;Sianturi;NULL;NULL;NULL;NULL;16/01/1988;NULL;NULL;6281318955885;winda.sianturi@gmail.com;NULL;NULL;08/03/2019;380000000403;4000;Normal;Gpay virtual card;active_card
+718;Monang;Simbolon;NULL;NULL;NULL;NULL;06/08/1986;NULL;NULL;6287809076378;simbolona@yahoo.com;NULL;NULL;08/03/2019;380000000404;102900;Normal;Gpay virtual card;active_card
+719;Rinaldi ;Buchari ;NULL;NULL;NULL;NULL;15/11/1960;NULL;NULL;62811825015;rbuchari@gmail.com;NULL;NULL;08/03/2019;380000000405;0;Normal;Gpay virtual card;active_card
+720;Kandar;Kandar;NULL;NULL;NULL;NULL;28/02/2000;NULL;NULL;6281389629091;mazkandar01@gmail.com;NULL;NULL;08/03/2019;380000000406;0;Normal;Gpay virtual card;card_requested
+721;Kandar;Kandar;NULL;NULL;NULL;NULL;28/02/2000;NULL;NULL;6281389629061;mazkandar01@gmail.com;NULL;NULL;08/03/2019;380000000407;0;Normal;Gpay virtual card;active_card
+722;Agus;Ferdiansyah;NULL;NULL;NULL;NULL;15/08/1979;NULL;NULL;6281310032021;agus.ferdiansyah79@yahoo.com;NULL;NULL;08/03/2019;380000000408;0;Normal;Gpay virtual card;active_card
+723;Sri;Muliati;NULL;NULL;NULL;NULL;01/11/1959;NULL;NULL;6281807345657;smuliati@yahoo.com;NULL;NULL;11/03/2019;380000000409;95800;Normal;Gpay virtual card;active_card
+724;Fauke;Bramantyo;NULL;NULL;NULL;NULL;12/09/1983;NULL;NULL;628557858885;fawfow@gmail.com;NULL;NULL;11/03/2019;380000000410;0;Normal;Gpay virtual card;active_card
+725;Andika;Tutupolij;15332;serpong park blok e7 no 8;Winda Yanwarinda;Jakarta;26/09/1990;15332;serpong park blok e7 no 8;628111261809;andika.tutupolij@gmail.com;3674022609900003;male;12/03/2019;380000000411;5800;Normal;Gpay virtual card;disabled_card
+725;Andika;Tutupolij;15332;serpong park blok e7 no 8;Winda Yanwarinda;Jakarta;26/09/1990;15332;serpong park blok e7 no 8;628111261809;andika.tutupolij@gmail.com;3674022609900003;male;12/03/2019;380100000161;5800;Normal;Gpay master virtual card;active_card
+726;Yabes;Sumampouw;NULL;NULL;NULL;NULL;26/08/1991;NULL;NULL;6281223202963;yabes.alfrets@yahoo.com;NULL;NULL;12/03/2019;380000000412;700;Normal;Gpay virtual card;active_card
+727;Mangambas;Siahaan;NULL;NULL;NULL;NULL;30/11/1984;NULL;NULL;6281380094271;mangambas.siahaan@gmail.com;NULL;NULL;12/03/2019;380000000413;45707;Normal;Gpay virtual card;active_card
+728;Lily;Lie;NULL;NULL;NULL;NULL;06/07/1981;NULL;NULL;6281367779889;lie_yenni81@yahoo.com;NULL;NULL;13/03/2019;380000000414;12600;Normal;Gpay virtual card;active_card
+729;Dydy;A;NULL;NULL;NULL;NULL;15/06/1991;NULL;NULL;6281906660170;mariadini91@gmail.com;NULL;NULL;13/03/2019;380000000415;0;Normal;Gpay virtual card;active_card
+730;Ariadi;Anaya;NULL;NULL;NULL;NULL;14/09/1971;NULL;NULL;6281387876767;aanaya.apps@gmail.com;NULL;NULL;13/03/2019;380000000416;250000;Normal;Gpay virtual card;active_card
+731;ferdinand;tongga;NULL;NULL;NULL;NULL;08/09/1983;NULL;NULL;6282114721814;ferdinand.tongga@gmail.com;NULL;NULL;15/03/2019;380000000417;10702;Normal;Gpay virtual card;active_card
+732;Aphedy;Soedjanmoko;NULL;NULL;NULL;NULL;06/08/1963;NULL;NULL;62811959111;aphedys@pli-indonesia.co.id;NULL;NULL;20/03/2019;380000000418;98600;Normal;Gpay virtual card;active_card
+733;bara;ganteng;NULL;NULL;NULL;NULL;05/03/1993;NULL;NULL;6281319618767;hayripradana@gmail.com;NULL;NULL;20/03/2019;380000000419;900;Normal;Gpay virtual card;active_card
+734;Fahmi;Arifin;NULL;NULL;NULL;NULL;14/07/1995;NULL;NULL;6281288004175;fahmi.arifin@gpay.id;NULL;NULL;26/03/2019;380000000420;5000;Normal;Gpay virtual card;active_card
+735;Andriansyah;Jaya;NULL;NULL;NULL;NULL;16/12/1992;NULL;NULL;6282233542964;andriansyah.dwijaya@gpay.id;NULL;NULL;01/04/2019;380000000421;400;Normal;Gpay virtual card;active_card
+736;Muhamad;Adiyat;NULL;NULL;NULL;NULL;08/04/1990;NULL;NULL;6282127892665;haga@haga.com;NULL;NULL;08/04/2019;380000000422;0;Normal;Gpay virtual card;card_requested
+737;Billy;Boen;NULL;NULL;NULL;NULL;09/04/1999;NULL;NULL;6287782951257;gede.widhi@gpay.id;NULL;NULL;09/04/2019;380000000423;0;Normal;Gpay virtual card;card_requested
+738;budi gunawan;sehat sentosa;NULL;NULL;NULL;NULL;10/04/1992;NULL;NULL;628171299848;rian.nugraha@gpay.id;NULL;NULL;10/04/2019;380000000424;0;Normal;Gpay virtual card;card_requested
+739;budi gunawan;sehat sentosa;NULL;NULL;NULL;NULL;10/04/1992;NULL;NULL;62817129848;rian.nugraha@gpay.id;NULL;NULL;10/04/2019;380000000425;0;Normal;Gpay virtual card;card_activation_is_required
+740;novalia;fatimah;NULL;NULL;NULL;NULL;20/11/1991;NULL;NULL;6285716662011;novaliafatimah@gmail.com;NULL;NULL;10/04/2019;380000000426;0;Normal;Gpay virtual card;active_card
+741;Hshsh;Syyy;NULL;NULL;NULL;NULL;10/04/1941;NULL;NULL;62888888977777;vas.peter@cardnet.hu;NULL;NULL;10/04/2019;380000000427;0;Normal;Gpay virtual card;card_requested
+742;Rian Nugraha;XL;NULL;NULL;NULL;NULL;02/11/1991;NULL;NULL;6287879168370;rian.axic@gmail.com;NULL;NULL;21/05/2019;380000000428;0;Normal;Gpay virtual card;active_card
+743;dendy;Swarandanu;NULL;NULL;NULL;NULL;05/10/1990;NULL;NULL;62817131366;dendy.swarandanu@mobileforce.mobi;NULL;NULL;21/05/2019;380000000429;0;Normal;Gpay virtual card;active_card
+744;alpha;test;NULL;NULL;NULL;NULL;24/05/1980;NULL;NULL;6282119175488;alphasatutiga@gmail.com;NULL;NULL;24/05/2019;380000000430;0;Normal;Gpay virtual card;active_card
+745;syamsi;dwi cahya;NULL;NULL;NULL;NULL;06/04/1989;NULL;NULL;628777826632;syamsi.dwicahya@mobileforce.mobi;NULL;NULL;24/05/2019;380000000431;0;Normal;Gpay virtual card;card_requested
+746;syamsi;dwi cahya;NULL;NULL;NULL;NULL;06/04/1989;NULL;NULL;628961361400;syamsi.dwicahya@mobileforce.mobi;NULL;NULL;24/05/2019;380000000432;0;Normal;Gpay virtual card;card_requested
+747;syamsi;test;NULL;NULL;NULL;NULL;29/05/1985;NULL;NULL;6289613614003;syamsi.dwicahya@mobileforce.mobi;NULL;NULL;29/05/2019;380000000433;0;Normal;Gpay virtual card;active_card
+748;Test;Test;NULL;NULL;NULL;NULL;25/06/1937;NULL;NULL;629638529638529;vas.peter@cardnet.hu;NULL;NULL;25/06/2019;380000000434;0;Normal;Gpay virtual card;active_card
+749;muhar yanti;yanti;NULL;NULL;NULL;NULL;04/02/1973;NULL;NULL;62085272000816;yanti_muhar@yahoo.co.id;NULL;NULL;02/07/2019;380000000435;0;Normal;Gpay virtual card;card_requested
+750;muhar yanti;yanti;NULL;NULL;NULL;NULL;04/02/1973;NULL;NULL;6285272000816;yanti_muhar@yahoo.co.id;NULL;NULL;02/07/2019;380000000436;0;Normal;Gpay virtual card;card_requested
+751;muhar yanti;yanti;NULL;NULL;NULL;NULL;04/02/1973;NULL;NULL;6285372000816;yanti_muhar@yahoo.co.id;NULL;NULL;02/07/2019;380000000437;0;Normal;Gpay virtual card;active_card
+752;muhar yanti;yanti;NULL;NULL;NULL;NULL;04/02/1973;NULL;NULL;62085372000816;yanti_muhar@yahoo.co.id;NULL;NULL;02/07/2019;380000000438;0;Normal;Gpay virtual card;card_requested
+753;carlo;gaciel;NULL;NULL;NULL;NULL;07/11/1987;NULL;NULL;6285694617141;carlo.gaciel@yahoo.com;NULL;NULL;02/07/2019;380000000439;4888;Normal;Gpay virtual card;active_card
+754;putri utami;vallen;NULL;NULL;NULL;NULL;09/06/1992;NULL;NULL;6281283020382;putriutamivallen@gmail.com;NULL;NULL;02/07/2019;380000000440;8100;Normal;Gpay virtual card;active_card
+755;Kuhantini ;Shanmugalingam;NULL;NULL;NULL;NULL;10/04/1991;NULL;NULL;6282132454204;kuha91@gmail.com;NULL;NULL;02/07/2019;380000000441;0;Normal;Gpay virtual card;active_card
+756;Caecilia;Vita;NULL;NULL;NULL;NULL;08/02/1982;NULL;NULL;628111912282;vitalambert8888@gmail.com;NULL;NULL;11/07/2019;380000000442;0;Normal;Gpay virtual card;active_card
+757;sonali;narayanan;NULL;NULL;NULL;NULL;06/12/1987;NULL;NULL;62085814669976;sonalinarayanan0@gmail.com;NULL;NULL;12/07/2019;380000000443;0;Normal;Gpay virtual card;card_requested
+760;Rachmad;Kusairi;NULL;NULL;NULL;NULL;04/07/1995;NULL;NULL;6281934540054;123450987ari@gmail.com;NULL;NULL;22/07/2019;380000000444;71541;Normal;Gpay virtual card;active_card
+761;Adityo;Bayu;NULL;NULL;NULL;NULL;09/06/1990;NULL;NULL;62895342414104;adityo.bayu@gpay.id;NULL;NULL;29/07/2019;380000000445;0;Normal;Gpay virtual card;active_card
+762;Richard;Wijaya;NULL;NULL;NULL;NULL;01/12/1979;NULL;NULL;6281258922505;richardwijaya0112@gmail.com;NULL;NULL;29/07/2019;380000000446;0;Normal;Gpay virtual card;active_card
+763;Rizwan;Yanuarko;NULL;NULL;NULL;NULL;05/01/1981;NULL;NULL;6281381166422;riz05riz@gmail.com;NULL;NULL;29/07/2019;380000000447;9420;Normal;Gpay virtual card;active_card
+764;Gladies;Gladies;NULL;NULL;NULL;NULL;04/02/1990;NULL;NULL;628159812201;gladies.sutandar@gmail.com;NULL;NULL;29/07/2019;380000000448;0;Normal;Gpay virtual card;active_card
+765;Michael;Michael;NULL;NULL;NULL;NULL;29/07/2000;NULL;NULL;6281284919665;michael@gtech.digital;NULL;NULL;29/07/2019;380000000449;0;Normal;Gpay virtual card;active_card
+766;MICHAEL;Michael;NULL;NULL;NULL;NULL;29/07/2001;NULL;NULL;6287777352558;niqmk@yahoo.com;NULL;NULL;29/07/2019;380000000450;0;Normal;Gpay virtual card;card_requested
+767;Muhamad;Andriyan;NULL;NULL;NULL;NULL;12/07/1990;NULL;NULL;6281298918220;andriyan.muhamad@gmail.com;NULL;NULL;29/07/2019;380000000451;100000;Normal;Gpay virtual card;active_card
+768;George;Widjaja;NULL;NULL;NULL;NULL;24/02/1999;NULL;NULL;628170768080;georgenickholson81@gmail.com;NULL;NULL;29/07/2019;380000000452;0;Normal;Gpay virtual card;active_card
+769;Andhika;Siwi;NULL;NULL;NULL;NULL;27/06/1988;NULL;NULL;6282110023647;siwiandhika@gmail.com;NULL;NULL;29/07/2019;380000000453;100000;Normal;Gpay virtual card;active_card
+770;Andriana;Rinaldi;NULL;NULL;NULL;NULL;29/01/1995;NULL;NULL;62081212049625;na.andrina@gmail.com;NULL;NULL;30/07/2019;380000000454;0;Normal;Gpay virtual card;card_requested
+771;Okin;S;NULL;NULL;NULL;NULL;30/12/1984;NULL;NULL;628568999318;okn_sts@yahoo.com;NULL;NULL;30/07/2019;380000000455;0;Normal;Gpay virtual card;card_requested
+772;Okin;S;NULL;NULL;NULL;NULL;30/12/1984;NULL;NULL;6281296096010;okn_sts@yahoo.com;NULL;NULL;30/07/2019;380000000456;300;Normal;Gpay virtual card;active_card
+773;Dinda;Hidayati Rizki;NULL;NULL;NULL;NULL;16/01/1993;NULL;NULL;6282297669528;hidayati.rizki@gpay.id;NULL;NULL;31/07/2019;380000000457;5100;Normal;Gpay virtual card;active_card
+774;Andi;Surahman;NULL;NULL;NULL;NULL;29/12/1993;NULL;NULL;6287882366276;andi.surahman29@gmail.com;NULL;NULL;31/07/2019;380000000458;14350;Normal;Gpay virtual card;active_card
+775;Kevin Marco;Kapoh;NULL;NULL;NULL;NULL;27/07/1994;NULL;NULL;6281317380755;kevinmarco.kapoh@gmail.com;NULL;NULL;31/07/2019;380000000459;1600;Normal;Gpay virtual card;active_card
+776;Adrian;Setiaputra;NULL;NULL;NULL;NULL;24/02/1990;NULL;NULL;6281932910036;adrian.setiaputra@gmail.com;NULL;NULL;02/08/2019;380000000460;0;Normal;Gpay virtual card;card_requested
+777;Adrian;Setiaputra;NULL;NULL;NULL;NULL;24/02/1990;NULL;NULL;6281932910036;adrian.setiaputra@gmail.com;NULL;NULL;02/08/2019;380000000461;0;Normal;Gpay virtual card;card_requested
+778;Elizabeth Felicia;Adeline;NULL;NULL;NULL;NULL;19/08/1994;NULL;NULL;6285717288823;elizabeth.adeline@yahoo.co.id;NULL;NULL;02/08/2019;380000000462;8990;Normal;Gpay virtual card;active_card
+779;Nadia;Ferratania;NULL;NULL;NULL;NULL;01/05/1983;NULL;NULL;6281384317583;emailemailan01@gmail.com;NULL;NULL;02/08/2019;380000000463;20000;Normal;Gpay virtual card;active_card
+780;Fahmi;Nur;NULL;NULL;NULL;NULL;01/01/1995;NULL;NULL;628988113005;fahmi@gtech.digital;NULL;NULL;02/08/2019;380000000464;0;Normal;Gpay virtual card;card_requested
+781;Fahmi;Nur;NULL;NULL;NULL;NULL;01/01/1995;NULL;NULL;6281398557795;fahmi@gtech.digital;NULL;NULL;02/08/2019;380000000465;3145;Normal;Gpay virtual card;active_card
+782;Michael;Chow;NULL;NULL;NULL;NULL;11/09/1994;NULL;NULL;6283871176303;chowmichaelworkmail@gmail.com;NULL;NULL;02/08/2019;380000000466;33900;Normal;Gpay virtual card;active_card
+783;edwin ;ali hamam;NULL;NULL;NULL;NULL;23/02/1984;NULL;NULL;6285711370585;edwinkoe@gmail.com;NULL;NULL;02/08/2019;380000000467;9000;Normal;Gpay virtual card;active_card
+784;Andre;Luckyanto;NULL;NULL;NULL;NULL;24/05/1993;NULL;NULL;6287888173624;andreluckyanto@gmail.com;NULL;NULL;02/08/2019;380000000468;5000;Normal;Gpay virtual card;active_card
+785;diah;irani;NULL;NULL;NULL;NULL;25/02/1997;NULL;NULL;6281295544196;diah.irani@yahoo.co.id;NULL;NULL;02/08/2019;380000000469;1900;Normal;Gpay virtual card;active_card
+786;yuli;hadi;NULL;NULL;NULL;NULL;12/07/1992;NULL;NULL;6281295779212;yuliferico@gmail.com;NULL;NULL;02/08/2019;380000000470;120000;Normal;Gpay virtual card;active_card
+787;Bayu;Pusporahardjo;NULL;NULL;NULL;NULL;19/05/1990;NULL;NULL;6281281948281;bayu.pusporahardjo@gmail.com;NULL;NULL;02/08/2019;380000000471;1300;Normal;Gpay virtual card;active_card
+788;Sugi;Sugi;NULL;NULL;NULL;NULL;02/05/1986;NULL;NULL;6281806135101;sugi8877.sugi@gmail.com;NULL;NULL;02/08/2019;380000000472;85100;Normal;Gpay virtual card;active_card
+789;Anindya;Azizsha;NULL;NULL;NULL;NULL;05/05/1994;NULL;NULL;6281296966720;aazizsha@gmail.com;NULL;NULL;02/08/2019;380000000473;5200;Normal;Gpay virtual card;active_card
+790;Firmansyah;Ilham;NULL;NULL;NULL;NULL;22/06/1993;NULL;NULL;6285903187272;jebrix09@gmail.com;NULL;NULL;02/08/2019;380000000474;3250;Normal;Gpay virtual card;active_card
+791;Adrian;Setiaputra;NULL;NULL;NULL;NULL;24/02/1990;NULL;NULL;6281932910034;adrian.setiaputr@gmail.com;NULL;NULL;02/08/2019;380000000475;0;Normal;Gpay virtual card;card_requested
+792;Adrian;Setiaputra;NULL;NULL;NULL;NULL;24/02/1990;NULL;NULL;6281932003411;adrian.setiaputr@gmail.com;NULL;NULL;02/08/2019;380000000476;0;Normal;Gpay virtual card;card_requested
+793;andre;kan;NULL;NULL;NULL;NULL;17/05/1996;NULL;NULL;6281219968822;andrechristikan@gmail.com;NULL;NULL;02/08/2019;380000000477;2300;Normal;Gpay virtual card;active_card
+794;Indah;Wuland;NULL;NULL;NULL;NULL;08/12/1995;NULL;NULL;6285274739820;indahpietok@gmail.com;NULL;NULL;02/08/2019;380000000478;8690;Normal;Gpay virtual card;active_card
+795;Gshs;Hdhd;NULL;NULL;NULL;NULL;15/08/1992;NULL;NULL;6285754691;riajah@gmail.com;NULL;NULL;02/08/2019;380000000479;0;Normal;Gpay virtual card;card_requested
+796;adhit;adhya;NULL;NULL;NULL;NULL;04/02/1989;NULL;NULL;6281316499545;adhit.adhya01@gmail.com;NULL;NULL;02/08/2019;380000000480;41300;Normal;Gpay virtual card;active_card
+797;Dian Ayu;FL;NULL;NULL;NULL;NULL;01/05/1989;NULL;NULL;6285795550050;dianayufl@yahoo.com;NULL;NULL;02/08/2019;380000000481;1000;Normal;Gpay virtual card;active_card
+800;Siti Nursari;Ismarini;NULL;NULL;NULL;NULL;15/03/1991;NULL;NULL;6281996517223;sn.ismarini@gmail.com;NULL;NULL;05/08/2019;380000000482;0;Normal;Gpay virtual card;card_requested
+801;Subhan;B;NULL;NULL;NULL;NULL;09/06/1985;NULL;NULL;6281211555211;subhanpander@gmail.com;NULL;NULL;06/08/2019;380000000483;0;Normal;Gpay virtual card;card_requested
+802;Dino;Mk;NULL;NULL;NULL;NULL;21/08/1997;NULL;NULL;6285777500760;dino.kasim@gpay.id;NULL;NULL;06/08/2019;380000000484;10500;Normal;Gpay virtual card;active_card
+803;Adrian;Setiaputra;NULL;NULL;NULL;NULL;24/02/1990;NULL;NULL;6281932910036;adrian.setiaputra@gmail.com;NULL;NULL;06/08/2019;380000000485;20000;Normal;Gpay virtual card;active_card
+804;Erik Yulisman;Himawan;NULL;NULL;NULL;NULL;06/07/1985;NULL;NULL;6281229690111;erik.yulisman@gmail.com;NULL;NULL;06/08/2019;380000000486;0;Normal;Gpay virtual card;active_card
+805;latifa suci;nurbiah;NULL;NULL;NULL;NULL;07/04/1999;NULL;NULL;6208121996127;latifahsuci77@gmail.com;NULL;NULL;07/08/2019;380000000487;0;Normal;Gpay virtual card;card_requested
+806;latifa suci;nurbiah;NULL;NULL;NULL;NULL;07/04/1999;NULL;NULL;628121996127;latifahsuci77@gmail.com;NULL;NULL;07/08/2019;380000000488;75;Normal;Gpay virtual card;active_card
+807;Rajesh;kumar;NULL;NULL;NULL;NULL;09/10/1991;NULL;NULL;6293392314;rajesh101091@gmail.com;NULL;NULL;08/08/2019;380000000489;0;Normal;Gpay virtual card;card_requested
+808;Srihayati;Mardinen;NULL;NULL;NULL;NULL;20/04/1976;NULL;NULL;628115002104;selhon21@gmail.com;NULL;NULL;09/08/2019;380000000490;0;Normal;Gpay virtual card;active_card
+809;Prathibha;Raj;NULL;NULL;NULL;NULL;07/12/1986;NULL;NULL;629959615938;gprathibharaj@Gmail.com;NULL;NULL;11/08/2019;380000000491;0;Normal;Gpay virtual card;card_requested
+811;Peter;Vas;NULL;NULL;NULL;NULL;12/08/1980;NULL;NULL;621234567891234;vas.peter@cardnet.hu;NULL;NULL;12/08/2019;380000000492;0;Normal;Gpay virtual card;active_card
+812;Andiriawati;Prihantini;NULL;NULL;NULL;NULL;09/09/1971;NULL;NULL;6281238658851;aprihantini@yahoo.com;NULL;NULL;14/08/2019;380000000493;0;Normal;Gpay virtual card;active_card
+813;Dwi;Jaya;NULL;NULL;NULL;NULL;15/08/1997;NULL;NULL;6285889313713;andriansyahdwijaya@gmail.com;NULL;NULL;14/08/2019;380000000494;0;Normal;Gpay virtual card;active_card
+814;Sapin;rusly;NULL;NULL;NULL;NULL;13/08/1997;NULL;NULL;6285784910069;sapinupin78@gmail.com;NULL;NULL;15/08/2019;380000000495;0;Normal;Gpay virtual card;active_card
+815;Cipry;Ribeiro;NULL;NULL;NULL;NULL;02/09/1990;NULL;NULL;6281325140861;cipry.ribeiro@gmail.com;NULL;NULL;16/08/2019;380000000496;0;Normal;Gpay virtual card;card_requested
+816;Benny;Purwandaru;NULL;NULL;NULL;NULL;26/02/1986;NULL;NULL;6281233830304;bennypurwandaru8@gmail.com;NULL;NULL;17/08/2019;380000000497;0;Normal;Gpay virtual card;active_card
+817;Ilham;Kresnawan;NULL;NULL;NULL;NULL;23/09/1998;NULL;NULL;6285715179530;kresnawanilham@gmail.com;NULL;NULL;18/08/2019;380000000498;0;Normal;Gpay virtual card;active_card
+818;Heru Noviat;Herdata;NULL;NULL;NULL;NULL;10/11/1961;NULL;NULL;628126913208;herunoviat@gmail.com;NULL;NULL;18/08/2019;380000000499;0;Normal;Gpay virtual card;active_card
+819;erin;astriani ;NULL;NULL;NULL;NULL;22/03/1992;NULL;NULL;62081293894911;erinastriani55@gmail.com;NULL;NULL;19/08/2019;380000000500;0;Normal;Gpay virtual card;card_requested
+820;erin;astriani ;NULL;NULL;NULL;NULL;22/03/1992;NULL;NULL;6281293894911;erinastriani55@gmail.com;NULL;NULL;19/08/2019;380000000501;0;Normal;Gpay virtual card;active_card
+821;Albert;Prawono;NULL;NULL;NULL;NULL;17/09/1995;NULL;NULL;6289691888285;albertxto@gmail.com;NULL;NULL;19/08/2019;380000000502;18000;Normal;Gpay virtual card;active_card
+822;Ghozian;Putra;NULL;NULL;NULL;NULL;22/02/1993;NULL;NULL;6285717111861;ghozian.putra@gmail.com;NULL;NULL;19/08/2019;380000000503;23850;Normal;Gpay virtual card;active_card
+823;Muhammad;khaeron;NULL;NULL;NULL;NULL;12/07/1981;NULL;NULL;6285695420101;mr.eron12@gmail.com;NULL;NULL;19/08/2019;380000000504;2700;Normal;Gpay virtual card;active_card
+824;Subandi;Bandi;NULL;NULL;NULL;NULL;15/07/1979;NULL;NULL;6285810505613;dbyaulia@gmail.com;NULL;NULL;19/08/2019;380000000505;500;Normal;Gpay virtual card;active_card
+825;Putra;Dinata;NULL;NULL;NULL;NULL;29/08/1987;NULL;NULL;6282180058575;putradinata870829@gmail.com;NULL;NULL;23/08/2019;380000000506;0;Normal;Gpay virtual card;card_requested
+826;Putra;Dinata;NULL;NULL;NULL;NULL;29/08/1987;NULL;NULL;6282180058575;putradinata870829@gmail.com;NULL;NULL;23/08/2019;380000000507;0;Normal;Gpay virtual card;card_requested
+827;aquarita;nurbaiti;NULL;NULL;NULL;NULL;18/02/1982;NULL;NULL;6281906414379;aquaritanurbaiti@gmail.com;NULL;NULL;23/08/2019;380000000508;0;Normal;Gpay virtual card;active_card
+828;HERMAN;EFFENDI;NULL;NULL;NULL;NULL;25/10/1978;NULL;NULL;6285646223761;kjibrantasnet@gmail.com;NULL;NULL;25/08/2019;380000000509;0;Normal;Gpay virtual card;card_requested
+829;HERMAN;EFFENDI;NULL;NULL;NULL;NULL;25/10/1978;NULL;NULL;6285646223761;kjibrantasnet@gmail.com;NULL;NULL;25/08/2019;380000000510;0;Normal;Gpay virtual card;card_requested
+830;M ILMI;RIZQI TUANAYA;NULL;NULL;NULL;NULL;23/12/1987;NULL;NULL;6281283998208;ilmidizzy@gmail.com;NULL;NULL;26/08/2019;380000000511;0;Normal;Gpay virtual card;active_card
+831;Nur ;Muhammad;NULL;NULL;NULL;NULL;22/04/1992;NULL;NULL;6285789699079;nm861615@gmail.com;NULL;NULL;26/08/2019;380000000512;0;Normal;Gpay virtual card;active_card
+832;Anggie pratama;Putra;NULL;NULL;NULL;NULL;28/11/1993;NULL;NULL;6281254045987;Anggiepratamaputra93@gmail.com;NULL;NULL;26/08/2019;380000000513;0;Normal;Gpay virtual card;active_card
+833;ZainaL;Liem;NULL;NULL;NULL;NULL;02/02/1997;NULL;NULL;6282271261559;jjs.nofear@gmail.com;NULL;NULL;27/08/2019;380000000514;0;Normal;Gpay virtual card;card_requested
+834;ZainaL;Liem;NULL;NULL;NULL;NULL;02/02/1997;NULL;NULL;6282271261559;jjs.nofear@gmail.com;NULL;NULL;27/08/2019;380000000515;0;Normal;Gpay virtual card;card_requested
+835;Ani;Anii;NULL;NULL;NULL;NULL;15/10/1994;NULL;NULL;6282293205082;ani008596@gmail.com;NULL;NULL;29/08/2019;380000000516;0;Normal;Gpay virtual card;active_card
+838;Nur Adhita;Rahmawati;NULL;NULL;NULL;NULL;27/09/1990;NULL;NULL;6285220896834;nuradhita@gmail.com;NULL;NULL;29/08/2019;380000000517;100000;Normal;Gpay virtual card;active_card
+839;Harits;Maghfiru;NULL;NULL;NULL;NULL;19/05/1985;NULL;NULL;6281274899203;harits.ivana@gmail.com;NULL;NULL;29/08/2019;380000000518;0;Normal;Gpay virtual card;active_card
+840;Narasingam ;Narasingam ;NULL;NULL;NULL;NULL;14/05/1974;NULL;NULL;628220219596;nsingam74@gamil.com;NULL;NULL;30/08/2019;380000000519;0;Normal;Gpay virtual card;card_requested
+841;Yulian;Marfian;NULL;NULL;NULL;NULL;28/07/1989;NULL;NULL;6281280638908;yulianmarfian88@gmail.com;NULL;NULL;30/08/2019;380000000520;0;Normal;Gpay virtual card;card_requested
+842;Budi;Hartono;NULL;NULL;NULL;NULL;26/01/1995;NULL;NULL;6285225646250;budi.trops86@gmail.com;NULL;NULL;31/08/2019;380000000521;0;Normal;Gpay virtual card;card_requested
+843;juanda;junjess;NULL;NULL;NULL;NULL;17/06/1983;NULL;NULL;6282123198575;nankaicivaz.83@gmail.com;NULL;NULL;31/08/2019;380000000522;0;Normal;Gpay virtual card;card_requested
+844;juanda;junjess;NULL;NULL;NULL;NULL;17/06/1983;NULL;NULL;6282123198575;nankaicivaz.83@gmail.com;NULL;NULL;31/08/2019;380000000523;0;Normal;Gpay virtual card;card_requested
+845;Jefri;Setiawan;NULL;NULL;NULL;NULL;16/03/2000;NULL;NULL;6285926165573;sjefri451@gmail.com;NULL;NULL;02/09/2019;380000000524;0;Normal;Gpay virtual card;card_requested
+846;arif;somantri;NULL;NULL;NULL;NULL;15/09/1984;NULL;NULL;6282126715380;sarif3359@gmail.com;NULL;NULL;02/09/2019;380000000525;0;Normal;Gpay virtual card;card_requested
+847;arif;somantri;NULL;NULL;NULL;NULL;15/09/1984;NULL;NULL;6282126715380;sarif3359@gmail.com;NULL;NULL;02/09/2019;380000000526;0;Normal;Gpay virtual card;card_requested
+848;arif;somantri;NULL;NULL;NULL;NULL;15/09/1984;NULL;NULL;62895327594148;sarif3359@gmail.com;NULL;NULL;02/09/2019;380000000527;0;Normal;Gpay virtual card;card_requested
+849;arif;somantri;NULL;NULL;NULL;NULL;15/09/1984;NULL;NULL;628212671538;sarif3359@gmail.com;NULL;NULL;02/09/2019;380000000528;0;Normal;Gpay virtual card;card_requested
+850;Vanieza;Bintang;NULL;NULL;NULL;NULL;17/07/2000;NULL;NULL;6281229750894;vanizabintang66677@gmail.com;NULL;NULL;03/09/2019;380000000529;0;Normal;Gpay virtual card;card_requested
+851;Adi ;Kurniawan;NULL;NULL;NULL;NULL;29/03/2000;NULL;NULL;6281511061741;kurniawanadi120@gmail.com;NULL;NULL;04/09/2019;380000000530;0;Normal;Gpay virtual card;card_requested
+852;Adi ;Kurniawan;NULL;NULL;NULL;NULL;29/03/2000;NULL;NULL;6281511061741;kurniawanadi120@gmail.com;NULL;NULL;04/09/2019;380000000531;0;Normal;Gpay virtual card;card_requested
+853;Ssb;Seeni Ibrahimsah;NULL;NULL;NULL;NULL;15/04/1961;NULL;NULL;6281315395966;ssbseeni03@gmail.com;NULL;NULL;05/09/2019;380000000532;0;Normal;Gpay virtual card;card_requested
+854;SITI FARIDAH BI;abdul hamid;NULL;NULL;NULL;NULL;05/04/1974;NULL;NULL;6281261330276;caitongholdings@gmail.com;NULL;NULL;05/09/2019;380000000533;0;Normal;Gpay virtual card;card_requested
+855;Sabil;Billa;NULL;NULL;NULL;NULL;24/03/1981;NULL;NULL;6285715390302;rembugsuneri@gmail.com;NULL;NULL;05/09/2019;380000000534;0;Normal;Gpay virtual card;active_card
+856;Sabil;Billa;NULL;NULL;NULL;NULL;24/03/1981;NULL;NULL;6281382907508;rembugsuneri@gmail.com;NULL;NULL;05/09/2019;380000000535;0;Normal;Gpay virtual card;card_requested
+857;Sabil;Billa;NULL;NULL;NULL;NULL;24/03/1981;NULL;NULL;6281382907508;rembugsuneri@gmail.com;NULL;NULL;05/09/2019;380000000536;0;Normal;Gpay virtual card;card_requested
+858;Rohma;Wahyuni;NULL;NULL;NULL;NULL;13/06/1998;NULL;NULL;6285733028479;hendrataubat1@gmail.com;NULL;NULL;06/09/2019;380000000537;0;Normal;Gpay virtual card;card_requested
+859;Nur Iman;Affandi;NULL;NULL;NULL;NULL;22/02/1995;NULL;NULL;6285891443954;imankerx@gmail.com;NULL;NULL;06/09/2019;380000000538;0;Normal;Gpay virtual card;card_requested
+860;Chairil;Anam;NULL;NULL;NULL;NULL;22/04/2000;NULL;NULL;6281283633152;chairulanamm.jkt0615@gmail.com;NULL;NULL;06/09/2019;380000000539;0;Normal;Gpay virtual card;active_card
+861;Intan;INTAN;NULL;NULL;NULL;NULL;14/02/1987;NULL;NULL;6281546577355;intan.febri77@gmail.com;NULL;NULL;06/09/2019;380000000540;0;Normal;Gpay virtual card;active_card
+862;Rizal;Kemong;NULL;NULL;NULL;NULL;15/02/1992;NULL;NULL;628584332029;rizalkemong4@gmail.com;NULL;NULL;07/09/2019;380000000541;0;Normal;Gpay virtual card;card_requested
+863;Rizal;Kemong;NULL;NULL;NULL;NULL;15/02/1992;NULL;NULL;6285843328029;rizalkemong4@gmail.com;NULL;NULL;07/09/2019;380000000542;0;Normal;Gpay virtual card;card_requested
+864;Rizal;Kemong;NULL;NULL;NULL;NULL;15/02/1992;NULL;NULL;6285843328029;rizalkemong4@gmail.com;NULL;NULL;07/09/2019;380000000543;0;Normal;Gpay virtual card;card_requested
+865;Rizal;Kemong;NULL;NULL;NULL;NULL;15/02/1992;NULL;NULL;6283845645278;rizalkemong4@gmail.co;NULL;NULL;07/09/2019;380000000544;0;Normal;Gpay virtual card;card_requested
+866;Rizal;Kemong;NULL;NULL;NULL;NULL;15/02/1992;NULL;NULL;6283545245647;rizalkemong4@gmail.com;NULL;NULL;07/09/2019;380000000545;0;Normal;Gpay virtual card;card_requested
+867;Rizal;Kemong;NULL;NULL;NULL;NULL;15/02/1992;NULL;NULL;6283545245647;rizalkemong4@gmail.com;NULL;NULL;07/09/2019;380000000546;0;Normal;Gpay virtual card;card_requested
+868;Rizal;Kemong;NULL;NULL;NULL;NULL;15/02/1992;NULL;NULL;6283845245647;rizalkemong4@gmail.com;NULL;NULL;07/09/2019;380000000547;0;Normal;Gpay virtual card;card_requested
+869;Rizal;Kemong;NULL;NULL;NULL;NULL;15/02/1992;NULL;NULL;6283845245647;rizalkemong4@gmail.com;NULL;NULL;07/09/2019;380000000548;0;Normal;Gpay virtual card;card_requested
+870;pande ;ade ;NULL;NULL;NULL;NULL;02/03/1998;NULL;NULL;6281238577417;pandebali151@gmail.com;NULL;NULL;07/09/2019;380000000549;0;Normal;Gpay virtual card;active_card
+871;Noriza;Rifqi;NULL;NULL;NULL;NULL;29/03/2002;NULL;NULL;6285758739928;norizasetiawan2903@gmail.com;NULL;NULL;07/09/2019;380000000550;0;Normal;Gpay virtual card;active_card
+872;pande ;ade ;NULL;NULL;NULL;NULL;01/03/1998;NULL;NULL;62081238577417;pandebali151@gmail.com;NULL;NULL;07/09/2019;380000000551;0;Normal;Gpay virtual card;card_requested
+873;Thoriq;Alkarim;NULL;NULL;NULL;NULL;07/09/1998;NULL;NULL;628971516633;thoriqalkarimx@gmail.com;NULL;NULL;07/09/2019;380000000552;0;Normal;Gpay virtual card;card_requested
+874;Thoriq;Alkarim;NULL;NULL;NULL;NULL;07/09/1998;NULL;NULL;628971516633;thoriqalkarimx@gmail.com;NULL;NULL;07/09/2019;380000000553;0;Normal;Gpay virtual card;card_requested
+875;Meiftahul;Chaeru;NULL;NULL;NULL;NULL;07/05/1996;NULL;NULL;628953836777;meiftahul10@gmail.com;NULL;NULL;08/09/2019;380000000554;0;Normal;Gpay virtual card;card_requested
+876;Meiftahul;Chaeru;NULL;NULL;NULL;NULL;07/05/1996;NULL;NULL;628953836777;meiftahul10@gmail.com;NULL;NULL;08/09/2019;380000000555;0;Normal;Gpay virtual card;card_requested
+877;Reza;Fahmi;NULL;NULL;NULL;NULL;06/08/1989;NULL;NULL;628522485984;rezafahmi031@gmail.com;NULL;NULL;08/09/2019;380000000556;0;Normal;Gpay virtual card;card_requested
+878;Reza;Fahmi;NULL;NULL;NULL;NULL;06/08/1989;NULL;NULL;6285224859846;rezafahmi031@gmail.com;NULL;NULL;08/09/2019;380000000557;0;Normal;Gpay virtual card;card_requested
+879;bagus;chandra setiawan;NULL;NULL;NULL;NULL;01/12/1995;NULL;NULL;6281280327030;canwie95@yahoo.co.id;NULL;NULL;08/09/2019;380000000558;0;Normal;Gpay virtual card;active_card
+880;Ananda;Krishnand;NULL;NULL;NULL;NULL;29/08/2001;NULL;NULL;6281230758080;anandakrishnanramadhans@gmail.com;NULL;NULL;08/09/2019;380000000559;0;Normal;Gpay virtual card;active_card
+881;Wawan;Wahyudin;NULL;NULL;NULL;NULL;28/09/1993;NULL;NULL;6282280249381;wawanwahyudin8039@gmail.com;NULL;NULL;09/09/2019;380000000560;0;Normal;Gpay virtual card;active_card
+882;Wawan;Wahyudin;NULL;NULL;NULL;NULL;28/09/1993;NULL;NULL;628195937357;wawanwahyudin8039@gmail.com;NULL;NULL;09/09/2019;380000000561;0;Normal;Gpay virtual card;card_requested
+883;Wawan;Wahyudin;NULL;NULL;NULL;NULL;28/09/1993;NULL;NULL;628228024938;wawanwahyudin8039@gmail.com;NULL;NULL;09/09/2019;380000000562;0;Normal;Gpay virtual card;card_requested
+884;satnam;singh;NULL;NULL;NULL;NULL;14/05/1993;NULL;NULL;6284306432;rajinsan56@gmail.com;NULL;NULL;11/09/2019;380000000563;0;Normal;Gpay virtual card;card_requested
+885;ali;zainal;NULL;NULL;NULL;NULL;05/06/1984;NULL;NULL;628786357800;alibsa5684@gmail.com;NULL;NULL;11/09/2019;380000000564;0;Normal;Gpay virtual card;card_requested
+886;Murugan ;sri;NULL;NULL;NULL;NULL;31/05/1980;NULL;NULL;628754433523;kaaarthick.naran@yahoo.com.sg;NULL;NULL;13/09/2019;380000000565;0;Normal;Gpay virtual card;card_requested

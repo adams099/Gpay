@@ -1,0 +1,17 @@
+﻿id;store_name;merchant_id;zipcode;address;phone1;email;website_url;dt_create;city_name;phone2;is_del;store_code;store_qris_code
+1;GPay;13;10220;Sahid sudirman center;;;https://gpay.id;03/12/2018 16:26;Jakarta Pusat;;;;
+35;Daily Foodhall Istana Sahid;50;10220;Jl Jend Sudirman kav 86;81931754851;helena@foodhall.co.id;;14/01/2019 16:37;Jakarta Pusat;;;;
+36;Testing Pos;51;10220;sahid sudiman center;;;https:gpay.id;14/01/2019 16:47;Jakarta Pusat;;;;
+37;Daily Foodhall Hayam Wuruk;50;10120;JL Hayam Wuruk, no 28, Gambir Jakarta Pusat;;;;13/02/2019 11:11;Jakarta Pusat;;;;
+38;Daily Foodhall Puri Casablanca;50;12870;Puri Casablanca Apartment;;;;13/02/2019 11:16;Jakarta Selatan;;;;
+39;GPay Top Up;48;;Sahid Sudirman Center;;;;22/02/2019 08:41;Jakarta Pusat;;;;
+40;Gpay Topup Testing;53;;;;;;22/02/2019 14:39;Jakarta Selatan;;;;
+41;GPay Top Up 2;52;;;;;;26/02/2019 13:37;Jakarta Pusat;;;;
+42;GPay Cashback;54;;;;;;27/02/2019 15:15;Jakarta Pusat;;;;
+43;Promo Cashback;55;;;82320986147;;;19/07/2019 16:30;Jakarta Pusat;;;;
+44;Promo Bonus 20K;56;;;;;;02/08/2019 15:20;Jakarta Pusat;;;;
+45;Promo Cashback 25K;57;;;;;;02/08/2019 15:23;Jakarta Pusat;;;;
+46;abc;53;;;;;;09/08/2019 09:48;Jakarta Pusat;;;;
+47;Top up Casback;60;;;;;;12/08/2019 08:24;Jakarta Pusat;;;;
+49;Daily Foodhall Wisma Hayam Wuruk;50;10120;Jl.Hayam Wuruk no.8 Rt.006/02 Kebon Kelapa ;88808306749;;;14/08/2019 14:03;Jakarta Pusat;;;;
+50;Hadiah Kemerdekaan;66;;Sahid Sudirman Center lt.36;;;;29/08/2019 15:09;Jakarta Pusat;;;;
